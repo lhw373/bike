@@ -14,25 +14,21 @@ echo 'll';
 echo 'nn';
 echo 'aaaa';
 
-echo 'hello word!'
+echo 'hello word!1111111'
 echo 'what are you doing';
-<<<<<<< HEAD
 
-echo 'form master info branch';
+echo 'hello word!'
+echo 'what are you doing';
+echo 'hello word!'
+echo 'what are you doing';
+echo 'hello word!'
+echo 'what are you doing';
+echo 'hello word!'
+echo 'what are you doing';
+echo 'hello word!'
+echo 'what are you doing';
+echo 'hello word!'
+echo 'what are you doing';
+echo 'hello word!'
 
-=======
-echo 'hello word!'
-echo 'what are you doing';
-echo 'hello word!'
-echo 'what are you doing';
-echo 'hello word!'
-echo 'what are you doing';
-echo 'hello word!'
-echo 'what are you doing';
-echo 'hello word!'
-echo 'what are you doing';
-echo 'hello word!'
-echo 'what are you doing';
-echo 'hello word!'
->>>>>>> refs/remotes/origin/bike_b
 ?>
