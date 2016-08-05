@@ -14,14 +14,5 @@ echo 'll';
 echo 'nn';
 echo 'aaaa';
 
-echo 'aaaa';
-echo 'aaaa';
-echo 'aaaa';
-echo 'aaaa';
-echo 'aaaa';
-echo 'aaaa';
-echo 'aaaa';
-echo 'aaaa';
-echo 'aaaa';
-
+echo 'hello word!'
 ?>
