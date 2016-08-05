@@ -16,6 +16,7 @@ echo 'aaaa';
 
 echo 'hello word!'
 echo 'what are you doing';
+<<<<<<< HEAD
 echo 'hello word!'
 echo 'what are you doing';
 echo 'hello word!'
@@ -33,4 +34,9 @@ echo 'hello word!'echo 'what are you doing';
 echo 'hello word!'echo 'what are you doing';
 echo 'hello word!'echo 'what are you doing';
 echo 'hello word!'
+=======
+
+echo 'form master info branch';
+
+>>>>>>> refs/remotes/origin/master
 ?>
